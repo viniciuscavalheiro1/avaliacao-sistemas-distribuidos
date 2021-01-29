@@ -29,7 +29,7 @@ class ClientThread(threading.Thread):
 
 
 def main():
-  HOST = '127.0.0.1' #Constante com o endereço IP do Servidor
+  HOST = '172.17.0.2' #Constante com o endereço IP do Servidor
   PORT = 65432  #Número da Porta que o Servidor vai ficar escutando
 
   # Aqui é criado o objeto do tipo socket, para dar suporte a conexão

@@ -8,7 +8,7 @@
 import socket # Biblioteca que dá suporte ao canal de comunicação
 import json # Biblioteca que dá suporte a objetos json
 
-UDP_IP_ADDRESS = "127.0.0.1" #Constante com o endereço IP do Servidor
+UDP_IP_ADDRESS = "172.17.0.2" #Constante com o endereço IP do Servidor
 UDP_PORT_N0 = 4567 #Número da Porta que o Servidor vai ficar escutando
 
 #Módulo (socket) informa ao S.O que quer utilizar a rede.

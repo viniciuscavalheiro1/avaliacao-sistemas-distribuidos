@@ -9,7 +9,7 @@ import socket # Biblioteca que dá suporte ao canal de comunicação
 import time # Biblioteca para gerenciar tempo real
 import statistics # Módulo para facilitar calculos matematicos
 
-HOST = '127.0.0.1' #Constante com o endereço IP do Servidor
+HOST = '172.17.0.2' #Constante com o endereço IP do Servidor
 PORT = 65432  #Número da Porta que o Servidor vai ficar escutando
 
 times = []

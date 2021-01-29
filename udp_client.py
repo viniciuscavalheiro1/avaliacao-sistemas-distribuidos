@@ -10,7 +10,7 @@ import json # Biblioteca que dá suporte a objetos json
 import time # Biblioteca para gerenciamento de tempo
 import statistics # Módulo para facilitar calculos matematicos
 
-UDP_IP_ADDRESS = "127.0.0.1" #Constante com o endereço IP do Servidor
+UDP_IP_ADDRESS = "172.17.0.2" #Constante com o endereço IP do Servidor
 UDP_PORT_N0 = 4567 # Número da Porta que o Servidor vai ficar escutando
 
 UDP_PORT_N1 = 7654 # Número da Porta que o Cliente vai esperar o retorno
