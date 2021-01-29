@@ -13,7 +13,6 @@ import statistics # Módulo para facilitar calculos matematicos
 UDP_IP_ADDRESS_server = "172.17.0.2"
 UDP_IP_ADDRESS_client = "172.17.0.3"
 
-UDP_IP_ADDRESS =  #Constante com o endereço IP do Servidor
 UDP_PORT_N0 = 4567 # Número da Porta que o Servidor vai ficar escutando
 
 UDP_PORT_N1 = 7654 # Número da Porta que o Cliente vai esperar o retorno
